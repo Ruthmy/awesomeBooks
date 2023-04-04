@@ -219,7 +219,8 @@ main {
 #author {
   border: 1px solid #d0d9d4;
   border-radius: 4px;
-  height: 2rem;
+  height: 2.5rem;
+  width: 18rem;
 }
 
 form button {

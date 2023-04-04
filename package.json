@@ -8,6 +8,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "type": "module",
   "devDependencies": {
     "babel-eslint": "^10.1.0",
     "eslint": "^7.32.0",
@@ -330,6 +331,7 @@
     "longest-streak": "^2.0.4",
     "lowercase-keys": "^2.0.0",
     "lru-cache": "^7.18.3",
+    "luxon": "^3.3.0",
     "make-dir": "^3.1.0",
     "make-fetch-happen": "^11.0.3",
     "map-age-cleaner": "^0.1.3",
