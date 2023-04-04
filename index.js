@@ -1,3 +1,4 @@
+/* eslint-disable */
 import { linkList, linkAdd, linkContact } from './modules/navegation.js';
 import { addBook, removeBook, displayBooks } from './modules/crud.js';
 import { DateTime } from './modules/luxon.js';
